@@ -1,1 +1,1 @@
-# PeregrineBot
+# Peregine-bot
